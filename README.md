@@ -1,27 +1,54 @@
-# react-movie
+## Live
 
-    Responsive React Movies App With API
+https://fmovie24.netlify.app/
+# fMovie Application
 
-# Video tutorial
 
-    https://youtu.be/ntYXj9W1Ez8
 
-# Resource
 
-    Google font: https://fonts.google.com/
+## Screenshots
 
-    Boxicons: https://boxicons.com/
+![App Screenshot](https://user-images.githubusercontent.com/61001158/148675973-1ca1c871-62f6-47be-bd12-081c7a748e4f.png))
 
-    Images: https://unsplash.com/
 
-    API: https://www.themoviedb.org/
+## About the Project
 
-# Preview
+It is a React based movie list application built with the help of tmdb api. User can mark
+their movie or Tv series as favorite or watched etc and stored permanently in their local storage
+of respective browser.
 
-!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721197-be990f3a-cae2-4757-9eb7-c0796f4a3834.png "Responsive React Movies App With API")
 
-!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721135-f64988cf-af31-495f-988c-c24ab10cbade.png "Responsive React Movies App With API")
+## Built with
 
-!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721056-733be8a6-7af6-424b-a74e-eb65980a5464.png "Responsive React Movies App With API")
+- React.js
+- Sass
+- Tmdb Api
 
-!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721118-cf5c59d2-31ff-4b06-86cb-262dd1b655fc.png "Responsive React Movies App With API")
+##  Features
+- Search particular movie/Tv Series
+- Add movie to favorite, watched or to watch later
+- Watch trailer, short description about movie/serie and ratings.
+- Recommended movie
+
+
+
+## Installation
+
+Clone the repo
+
+```bash
+  git clone https://github.com/your-username_/Project-Name
+```
+
+Install NPM packages
+
+```bash
+  npm install
+```
+
+Start running on localhost 
+
+```bash
+  npm start
+```
+    
